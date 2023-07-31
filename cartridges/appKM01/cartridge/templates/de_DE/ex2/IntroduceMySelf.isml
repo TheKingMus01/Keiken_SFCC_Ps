@@ -1,0 +1,5 @@
+<isdecorate template="common/layout/page">
+    <div class="learning">
+        <p>Mein Name ist ${pdict.name}, ich bin ${pdict.year} Jahre alt und wohne in ${pdict.city}.</p>
+    </div>
+</isdecorate>
